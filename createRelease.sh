@@ -8,7 +8,17 @@ aws --profile election-test s3 sync s3://odileeds-uk-election-2019/processed/liv
 cat data/live/?????????.json | jq --slurp '.' > $ALL_RESULTS
 
 jq --raw-output '
-  [ "const_id","const_name","candidate_id","candidate_name","party_code","votes","pct_share","pct_point_change_from_ge17" ] as $cols
+  [
+    "const_id",
+    "const_name",
+    "candidate_id",
+    "candidate_name",
+    "party_code",
+    "party_name",
+    "votes",
+    "pct_share",
+    "pct_point_change_from_ge17"
+  ] as $cols
   | [
     .[]
     | .id as $conId

@@ -1,4 +1,4 @@
-"const_id","const_name","candidate_id","candidate_name","party_code","votes","pct_share","pct_point_change_from_ge17"
+"const_id","const_name","candidate_id","candidate_name","party_code","party_name","votes","pct_share","pct_point_change_from_ge17"
 "E14000530","Aldershot","1201","Alan Hilliar","LD","Liberal Democrats",6920,14.4,7
 "E14000530","Aldershot","5645","Leo Docherty","Con","Conservative and Unionist Party",27980,58.4,3.3
 "E14000530","Aldershot","5884","Howard James Kaye","Lab","Labour Party",11282,23.5,-8.1
