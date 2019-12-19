@@ -6,13 +6,13 @@
 "E14000534","Arundel and South Downs","Con","Conservative and Unionist Party","Andrew Griffith",35566,22521,61408,,,,"Con",23883,76
 "E14000535","Ashfield","Con","Conservative and Unionist Party","Lee Anderson",19231,5733,48980,,78204,62.6,"Lab",441,64.1
 "E14000536","Ashford","Con","Conservative and Unionist Party","Damian Green",37270,24029,60059,,89550,67.1,"Con",17478,68.7
-"E14000537","Ashton-under-Lyne","Lab","Labour Party","Angela Rayner",18544,4263,38559,,67978,56.7,"Lab",11295,58.9
+"E14000537","Ashton-under-Lyne","Lab","Labour Party","Angela Rayner",18544,4263,38579,,67978,56.8,"Lab",11295,58.9
 "E14000538","Aylesbury","Con","Conservative and Unionist Party","Rob Butler",32737,17373,60576,,,,"Con",14656,71.4
 "E14000539","Banbury","Con","Conservative and Unionist Party","Victoria Prentis",34148,16813,62921,,90113,69.8,"Con",12399,73.6
 "E14000540","Barking","Lab","Labour Party","Margaret Hodge",27219,15427,44499,,77946,57.1,"Lab",21608,62
 "E14000541","Barnsley Central","Lab","Labour Party","Dan Jarvis",14804,3571,36903,,65277,56.5,"Lab",15546,61
-"E14000542","Barnsley East","Lab","Labour Party","Stephanie Peacock",14329,3217,38064,,69504,54.8,"Lab",13283,59
-"E14000543","Barrow and Furness","Con","Conservative and Unionist Party","Simon Fell",23876,5789,44246,,,,"Lab",209,68.6
+"E14000542","Barnsley East","Lab","Labour Party","Stephanie Peacock",14329,3217,38070,,69504,54.8,"Lab",13283,59
+"E14000543","Barrow and Furness","Con","Conservative and Unionist Party","Simon Fell",23876,5789,46046,,,,"Lab",209,68.6
 "E14000544","Basildon and Billericay","Con","Conservative and Unionist Party","John Baron",29590,20412,44128,,69906,63.1,"Con",13400,65.1
 "E14000545","Basingstoke","Con","Conservative and Unionist Party","Maria Miller",29593,14198,54713,,82926,66,"Con",9466,68.5
 "E14000546","Bassetlaw","Con","Conservative and Unionist Party","Brendan Clarke-Smith",28078,14013,50841,,80035,63.5,"Lab",4852,66.7
@@ -57,20 +57,20 @@
 "E14000585","Bournemouth West","Con","Conservative and Unionist Party","Conor Burns",24550,10150,45977,,74211,62,"Con",7711,61
 "E14000586","Bracknell","Con","Conservative and Unionist Party","James Sunderland",31894,19829,54350,,,,"Con",16016,70.8
 "E14000587","Bradford East","Lab","Labour Party","Imran Hussain",27825,18144,44184,,73206,60.4,"Lab",20540,64.9
-"E14000588","Bradford South","Lab","Labour Party","Judith Cummins",18390,2346,54280,,69046,78.6,"Lab",6700,60.7
+"E14000588","Bradford South","Lab","Labour Party","Judith Cummins",18390,2346,39741,,69046,57.6,"Lab",6700,60.7
 "E14000589","Bradford West","Lab","Labour Party","Naz Shah",33736,27019,44261,,70694,62.6,"Lab",21902,67.7
 "E14000590","Braintree","Con","Conservative and Unionist Party","James Cleverly",34112,24673,50499,,75208,67.1,"Con",18422,69.6
 "E14000591","Brent Central","Lab","Labour Party","Dawn Butler",31779,20870,49132,,84204,58.3,"Lab",27997,65.2
 "E14000592","Brent North","Lab","Labour Party","Barry Gardiner",26911,8079,51879,,83772,61.9,"Lab",17061,68.6
 "E14000593","Brentford and Isleworth","Lab","Labour Party","Ruth Cadbury",29266,10514,58326,,,,"Lab",12182,72.5
-"E14000594","Brentwood and Ongar","Con","Conservative and Unionist Party","Alex Burghart",36308,29065,52941,,,,"Con",24002,70.6
+"E14000594","Brentwood and Ongar","Con","Conservative and Unionist Party","Alex Burghart",36308,29065,47406,,,,"Con",24002,70.6
 "E14000595","Bridgwater and West Somerset","Con","Conservative and Unionist Party","Ian Liddell-Grainger",35827,24439,57652,,,,"Con",15448,65.4
 "E14000596","Brigg and Goole","Con","Conservative and Unionist Party","Andrew Percy",30941,21941,43402,,65939,65.8,"Con",12363,68.3
 "E14000597","Brighton, Kemptown","Lab","Labour and Co-operative Party","Lloyd Russell-Moyle",25033,8061,48533,,69833,69.5,"Lab",9868,72.7
 "E14000598","Brighton, Pavilion","Green","Green Party","Caroline Lucas",33151,19940,57998,,79057,73.4,"Green",14699,76.6
 "E14000599","Bristol East","Lab","Labour Party","Kerry McCarthy",27717,10794,52154,,73867,70.6,"Lab",13394,70.3
 "E14000600","Bristol North West","Lab","Labour Party","Darren Jones",27330,5692,55885,,76273,73.3,"Lab",4761,71.9
-"E14000601","Bristol South","Lab","Labour Party","Karin Smyth",27895,9859,55194,,84079,65.6,"Lab",15987,65.6
+"E14000601","Bristol South","Lab","Labour Party","Karin Smyth",27895,9859,55196,,84079,65.6,"Lab",15987,65.6
 "E14000602","Bristol West","Lab","Labour Party","Thangam Debbonaire",47028,28219,75528,,99253,76.1,"Lab",37336,77.2
 "E14000603","Broadland","Con","Conservative and Unionist Party","Jerome Mayhew",33934,21861,56977,,78151,72.9,"Con",15816,72.5
 "E14000604","Bromley and Chislehurst","Con","Conservative and Unionist Party","Bob Neill",23958,10891,45566,,66711,68.3,"Con",9590,71.8
@@ -84,7 +84,7 @@
 "E14000612","Bury South","Con","Conservative and Unionist Party","Christian Wakeford",22034,402,50274,,75152,66.9,"Lab",5965,69.3
 "E14000613","Bury St Edmunds","Con","Conservative and Unionist Party","Jo Churchill",37770,24988,61957,,,,"Con",18441,72.4
 "E14000614","Calder Valley","Con","Conservative and Unionist Party","Craig Whittaker",29981,5774,57793,,79287,72.9,"Con",609,73.6
-"E14000615","Camberwell and Peckham","Lab","Labour Party","Harriet Harman",40251,33773,56485,,,,"Lab",37316,67.3
+"E14000615","Camberwell and Peckham","Lab","Labour Party","Harriet Harman",40258,33780,56492,,,,"Lab",37316,67.3
 "E14000616","Camborne and Redruth","Con","Conservative and Unionist Party","George Eustice",26764,8700,50367,,70250,71.7,"Con",1577,71
 "E14000617","Cambridge","Lab","Labour Party","Daniel Zeichner",25776,9639,53729,,79951,67.2,"Lab",12661,71.4
 "E14000618","Cannock Chase","Con","Conservative and Unionist Party","Amanda Milling",31636,19879,46313,,,,"Con",8391,64.3
@@ -105,7 +105,7 @@
 "E14000633","Chichester","Con","Conservative and Unionist Party","Gillian Keegan",35402,21490,61243,,85499,71.6,"Con",22621,70.7
 "E14000634","Chingford and Woodford Green","Con","Conservative and Unionist Party","Iain Duncan Smith",23481,1262,48444,,65393,74.1,"Con",2438,71.5
 "E14000635","Chippenham","Con","Conservative and Unionist Party","Michelle Donelan",30994,11288,57099,,,,"Con",16630,75
-"E14000636","Chipping Barnet","Con","Conservative and Unionist Party","Theresa Villiers",25741,1208,57565,,,,"Con",353,72
+"E14000636","Chipping Barnet","Con","Conservative and Unionist Party","Theresa Villiers",25745,1212,57569,,,,"Con",353,72
 "E14000637","Chorley","Spk","Speaker seeking re-election","Lindsay Hoyle",26831,17392,39870,,,,"Lab",7512,73
 "E14000638","Christchurch","Con","Conservative and Unionist Party","Christopher Chope",33894,24617,51951,,71521,72.6,"Con",25171,72.2
 "E14000639","Cities of London and Westminster","Con","Conservative and Unionist Party","Nickie Aiken",17049,3953,42723,,63700,67.1,"Con",3148,63
@@ -151,7 +151,7 @@
 "E14000679","East Ham","Lab","Labour Party","Stephen Timms",41703,33176,54628,,89369,61.1,"Lab",39883,67.7
 "E14000680","East Hampshire","Con","Conservative and Unionist Party","Damian Hinds",33446,19696,56895,,76478,74.4,"Con",25852,74.9
 "E14000681","East Surrey","Con","Conservative and Unionist Party","Claire Coutinho",35624,24040,59690,,,,"Con",23914,72.3
-"E14000682","East Worthing and Shoreham","Con","Conservative and Unionist Party","Tim Loughton",27107,7463,53139,,75196,70.7,"Con",5106,70.4
+"E14000682","East Worthing and Shoreham","Con","Conservative and Unionist Party","Tim Loughton",27104,7441,53155,,75196,70.7,"Con",5106,70.4
 "E14000683","East Yorkshire","Con","Conservative and Unionist Party","Greg Knight",33988,22787,55302,,,,"Con",15006,66.7
 "E14000684","Eastbourne","Con","Conservative and Unionist Party","Caroline Ansell",26951,4331,55134,,79307,69.5,"LD",1609,73
 "E14000685","Eastleigh","Con","Conservative and Unionist Party","Paul Holmes",32690,15607,58971,,83880,70.3,"Con",14179,70.7
@@ -164,7 +164,7 @@
 "E14000692","Enfield, Southgate","Lab","Labour Party","Bambos Charalambous",22923,4450,47276,,65055,72.7,"Lab",4355,74.4
 "E14000693","Epping Forest","Con","Conservative and Unionist Party","Eleanor Laing",32364,22173,50268,,,,"Con",18243,68.1
 "E14000694","Epsom and Ewell","Con","Conservative and Unionist Party","Chris Grayling",31819,17873,59451,,,,"Con",20475,74.3
-"E14000695","Erewash","Con","Conservative and Unionist Party","Maggie Throup",27560,10606,63347,,,,"Con",4534,68.3
+"E14000695","Erewash","Con","Conservative and Unionist Party","Maggie Throup",27560,10606,48880,,,,"Con",4534,68.3
 "E14000696","Erith and Thamesmead","Lab","Labour Party","Abena Oppong-Asare",19882,3758,41384,,65399,63.3,"Lab",10014,63.9
 "E14000697","Esher and Walton","Con","Conservative and Unionist Party","Dominic Raab",31132,2743,63084,,81184,77.7,"Con",23298,74
 "E14000698","Exeter","Lab","Labour Party","Ben Bradshaw",29882,10403,56192,,82047,68.5,"Lab",16117,71.8
@@ -188,7 +188,7 @@
 "E14000716","Great Grimsby","Con","Conservative and Unionist Party","Lia Nici",18150,7331,33087,,61409,53.9,"Lab",2565,57.6
 "E14000717","Great Yarmouth","Con","Conservative and Unionist Party","Brandon Lewis",28593,17663,43462,,71957,60.4,"Con",7973,62.1
 "E14000718","Greenwich and Woolwich","Lab","Labour Party","Matthew Pennycook",30185,18464,53120,,79997,66.4,"Lab",20714,69.1
-"E14000719","Guildford","Con","Conservative and Unionist Party","Angela Joy Richardson",26375,3395,58569,,77729,75.4,"Con",17040,73.9
+"E14000719","Guildford","Con","Conservative and Unionist Party","Angela Joy Richardson",26375,3395,58709,,77729,75.5,"Con",17040,73.9
 "E14000720","Hackney North and Stoke Newington","Lab","Labour Party","Diane Abbott",39972,33188,56864,,92451,61.5,"Lab",35139,66.4
 "E14000721","Hackney South and Shoreditch","Lab","Labour and Co-operative Party","Meg Hillier",39884,33985,54439,,89380,60.9,"Lab",37931,66.9
 "E14000722","Halesowen and Rowley Regis","Con","Conservative and Unionist Party","James Morris",25607,12074,42345,,,,"Con",5253,64.6
@@ -225,7 +225,7 @@
 "E14000753","Horsham","Con","Conservative and Unionist Party","Jeremy Quin",35900,21127,63242,,,,"Con",23484,75
 "E14000754","Houghton and Sunderland South","Lab","Labour Party","Bridget Phillipson",16210,3115,39811,,,,"Lab",12341,61
 "E14000755","Hove","Lab","Labour Party","Peter Kyle",32876,17044,56391,,74313,75.9,"Lab",18757,77.7
-"E14000756","Huddersfield","Lab","Labour and Co-operative Party","Barry Sheerman",25009,9437,46382,,65525,70.8,"Lab",12005,65.6
+"E14000756","Huddersfield","Lab","Labour and Co-operative Party","Barry Sheerman",20509,4937,41882,,65525,63.9,"Lab",12005,65.6
 "E14000757","Huntingdon","Con","Conservative and Unionist Party","Jonathan Djanogly",32386,19383,59147,,84686,69.8,"Con",14475,71
 "E14000758","Hyndburn","Con","Conservative and Unionist Party","Sara Britcliffe",20565,2951,42406,,70910,59.8,"Lab",5815,63.3
 "E14000759","Ilford North","Lab","Labour Party","Wes Streeting",25323,5218,50123,,72963,68.7,"Lab",9639,72.7
@@ -235,7 +235,7 @@
 "E14000763","Islington North","Lab","Labour Party","Jeremy Corbyn",34603,26188,53805,,75162,71.6,"Lab",33215,73.6
 "E14000764","Islington South and Finsbury","Lab","Labour Party","Emily Thornberry",26897,17328,47816,,70489,67.8,"Lab",20263,69.3
 "E14000765","Jarrow","Lab","Labour Party","Kate Osborne",18363,7120,41350,,65103,63.5,"Lab",17263,66.5
-"E14000766","Keighley","Con","Conservative and Unionist Party","Robbie Moore",25209,2129,52515,,72778,72.2,"Lab",239,72.5
+"E14000766","Keighley","Con","Conservative and Unionist Party","Robbie Moore",25298,2218,52604,,72778,72.3,"Lab",239,72.5
 "E14000767","Kenilworth and Southam","Con","Conservative and Unionist Party","Jeremy Wright",30351,20353,52597,,68156,77.2,"Con",18076,77.5
 "E14000768","Kensington","Con","Conservative and Unionist Party","Felicity Buchan",16768,150,43762,,64609,67.7,"Lab",20,64
 "E14000769","Kettering","Con","Conservative and Unionist Party","Philip Hollobone",29787,16765,49361,,,,"Con",10562,69.3
@@ -298,7 +298,7 @@
 "E14000826","Morley and Outwood","Con","Conservative and Unionist Party","Andrea Jenkyns",29424,11267,51930,,78803,65.9,"Con",2104,68.7
 "E14000827","New Forest East","Con","Conservative and Unionist Party","Julian Lewis",32769,25251,50786,,73579,69,"Con",21995,70.9
 "E14000828","New Forest West","Con","Conservative and Unionist Party","Desmond Swayne",32113,24403,50306,,70892,71,"Con",23431,72.3
-"E14000829","Newark","Con","Conservative and Unionist Party","Robert Jenrick",34660,21846,54732,,75855,72.2,"Con",18149,73.1
+"E14000829","Newark","Con","Conservative and Unionist Party","Robert Jenrick",34660,21816,54762,,75855,72.2,"Con",18149,73.1
 "E14000830","Newbury","Con","Conservative and Unionist Party","Laura Farris",34431,16047,59998,,83414,71.9,"Con",24380,73.6
 "E14000831","Newcastle upon Tyne Central","Lab","Labour Party","Chi Onwurah",21568,12278,37474,,57845,64.8,"Lab",14937,67.1
 "E14000832","Newcastle upon Tyne East","Lab","Labour Party","Nick Brown",26049,15463,43365,,63796,68,"Lab",19261,67.3
@@ -330,7 +330,7 @@
 "E14000858","North West Leicestershire","Con","Conservative and Unionist Party","Andrew Bridgen",33811,20400,53821,,78935,68.2,"Con",13286,71.2
 "E14000859","North West Norfolk","Con","Conservative and Unionist Party","James Wild",30627,19922,46602,,72080,64.7,"Con",13788,67.8
 "E14000860","North Wiltshire","Con","Conservative and Unionist Party","James Gray",32373,17626,54758,,,,"Con",22877,75.3
-"E14000861","Northampton North","Con","Conservative and Unionist Party","Michael Ellis",21031,5487,39559,,58774,67.3,"Con",807,68.7
+"E14000861","Northampton North","Con","Conservative and Unionist Party","Michael Ellis",21031,5507,39539,,58774,67.3,"Con",807,68.7
 "E14000862","Northampton South","Con","Conservative and Unionist Party","Andrew Lewer",20914,4697,40835,,62172,65.7,"Con",1159,66.5
 "E14000863","Norwich North","Con","Conservative and Unionist Party","Chloe Smith",23397,4738,46285,,67172,68.9,"Con",507,68.7
 "E14000864","Norwich South","Lab","Labour Party","Clive Lewis",27766,12760,51673,,77845,66.4,"Lab",15596,69.4
@@ -347,7 +347,7 @@
 "E14000875","Pendle","Con","Conservative and Unionist Party","Andrew Stephenson",24076,6186,44460,,65289,68.1,"Con",1279,69.2
 "E14000876","Penistone and Stocksbridge","Con","Conservative and Unionist Party","Miriam Joy Cates",23688,7210,49520,,70925,69.8,"Lab",1322,70
 "E14000877","Penrith and The Border","Con","Conservative and Unionist Party","Neil Hudson",28875,18519,47824,,67555,70.8,"Con",15910,71.5
-"E14000878","Peterborough","Con","Conservative and Unionist Party","Paul Bristow",22343,2599,47913,,72560,66,"Lab",607,66.9
+"E14000878","Peterborough","Con","Conservative and Unionist Party","Paul Bristow",22334,2580,47914,,72560,66,"Lab",607,66.9
 "E14000879","Plymouth, Moor View","Con","Conservative and Unionist Party","Johnny Mercer",26831,12897,44239,,69430,63.7,"Con",5019,65.6
 "E14000880","Plymouth, Sutton and Devonport","Lab","Labour and Co-operative Party","Luke Pollard",25461,4757,53176,,77852,68.3,"Lab",6807,67
 "E14000881","Poole","Con","Conservative and Unionist Party","Robert Syms",29599,19116,50451,,73992,68.2,"Con",14209,67.7
@@ -360,7 +360,7 @@
 "E14000888","Rayleigh and Wickford","Con","Conservative and Unionist Party","Mark Francois",39864,31000,54901,,,,"Con",23450,70.5
 "E14000889","Reading East","Lab","Labour Party","Matt Rodda",27102,5924,55918,,77465,72.2,"Lab",3749,73.3
 "E14000890","Reading West","Con","Conservative and Unionist Party","Alok Sharma",24393,4117,50392,,74623,67.5,"Con",2876,69.7
-"E14000891","Redcar","Con","Conservative and Unionist Party","Jacob Young",18811,3522,40847,,,,"Lab",9485,63.8
+"E14000891","Redcar","Con","Conservative and Unionist Party","Jacob Young",18811,3527,40842,,,,"Lab",9485,63.8
 "E14000892","Redditch","Con","Conservative and Unionist Party","Rachel Maclean",27907,16036,44067,,,,"Con",7363,70.3
 "E14000893","Reigate","Con","Conservative and Unionist Party","Crispin Blunt",28665,18310,53156,,74842,71,"Con",17614,72.3
 "E14000894","Ribble Valley","Con","Conservative and Unionist Party","Nigel Evans",33346,18439,55284,,,,"Con",13199,71
@@ -371,10 +371,10 @@
 "E14000899","Rochford and Southend East","Con","Conservative and Unionist Party","James Duddridge",27063,12286,46136,,75624,61,"Con",5548,64.4
 "E14000900","Romford","Con","Conservative and Unionist Party","Andrew Richard Rosindell",30494,17893,47231,,72350,65.3,"Con",13778,68.1
 "E14000901","Romsey and Southampton North","Con","Conservative and Unionist Party","Caroline Nokes",27862,10872,51390,,68228,75.3,"Con",18046,74.8
-"E14000902","Rossendale and Darwen","Con","Conservative and Unionist Party","Jake Berry",27578,9530,48830,,72771,67.1,"Con",3216,69.4
+"E14000902","Rossendale and Darwen","Con","Conservative and Unionist Party","Jake Berry",27570,9522,48822,,72771,67.1,"Con",3216,69.4
 "E14000903","Rother Valley","Con","Conservative and Unionist Party","Alexander Stafford",21970,6318,48698,,74802,65.1,"Lab",3882,65.9
 "E14000904","Rotherham","Lab","Labour Party","Sarah Champion",14736,3121,35651,,61688,57.8,"Lab",11387,60.1
-"E14000905","Rugby","Con","Conservative and Unionist Party","Mark Pawsey",29255,13447,50814,,72341,70.2,"Con",8212,71.3
+"E14000905","Rugby","Con","Conservative and Unionist Party","Mark Pawsey",29225,13417,50784,,72341,70.2,"Con",8212,71.3
 "E14000906","Ruislip, Northwood and Pinner","Con","Conservative and Unionist Party","David Simmonds",29391,16394,52904,,73389,72.1,"Con",13980,72.9
 "E14000907","Runnymede and Weybridge","Con","Conservative and Unionist Party","Ben Spencer",29262,18270,53289,,77196,69,"Con",18050,69.1
 "E14000908","Rushcliffe","Con","Conservative and Unionist Party","Ruth Edwards",28765,7643,60505,,77116,78.5,"Con",8010,78.2
@@ -414,8 +414,8 @@
 "E14000942","South Northamptonshire","Con","Conservative and Unionist Party","Andrea Leadsom",41755,27761,66908,,,,"Con",22840,75.9
 "E14000943","South Ribble","Con","Conservative and Unionist Party","Katherine Fletcher",30028,11199,53784,,75344,71.4,"Con",7421,72.5
 "E14000944","South Shields","Lab","Labour Party","Emma Lewell-Buck",17273,9585,37882,,62793,60.3,"Lab",14508,64.4
-"E14000945","South Staffordshire","Con","Conservative and Unionist Party","Gavin Williamson",36520,28250,50015,,,,"Con",22733,69.8
-"E14000946","South Suffolk","Con","Conservative and Unionist Party","James Cartlidge",33270,22897,53489,,,,"Con",17749,72
+"E14000945","South Staffordshire","Con","Conservative and Unionist Party","Gavin Williamson",36520,28250,50005,,,,"Con",22733,69.8
+"E14000946","South Suffolk","Con","Conservative and Unionist Party","James Cartlidge",33276,22903,53495,,,,"Con",17749,72
 "E14000947","South Swindon","Con","Conservative and Unionist Party","Robert Buckland",26536,6625,50746,,73118,69.4,"Con",2464,71
 "E14000948","South Thanet","Con","Conservative and Unionist Party","Craig Mackinlay",27084,10587,48257,,73302,65.8,"Con",6387,68.9
 "E14000949","South West Bedfordshire","Con","Conservative and Unionist Party","Andrew Selous",32212,18583,53307,,,,"Con",14168,70
@@ -423,7 +423,7 @@
 "E14000951","South West Hertfordshire","Con","Conservative and Unionist Party","Gagan Mohindra",30327,14408,61191,,80449,76.1,"Con",19550,75
 "E14000952","South West Norfolk","Con","Conservative and Unionist Party","Elizabeth Truss",35507,26195,51466,,78455,65.6,"Con",18312,67.5
 "E14000953","South West Surrey","Con","Conservative and Unionist Party","Jeremy Hunt",32191,8817,60340,,,,"Con",21590,77.6
-"E14000954","South West Wiltshire","Con","Conservative and Unionist Party","Andrew Murrison",33058,21650,54915,,,,"Con",18326,71.4
+"E14000954","South West Wiltshire","Con","Conservative and Unionist Party","Andrew Murrison",33038,21630,54895,,,,"Con",18326,71.4
 "E14000955","Southampton, Itchen","Con","Conservative and Unionist Party","Royston Smith",23952,4498,47421,,79006,60,"Con",31,65.4
 "E14000956","Southampton, Test","Lab","Labour Party","Alan Whitehead",22256,6213,44994,,79509,56.6,"Lab",11503,67
 "E14000957","Southend West","Con","Conservative and Unionist Party","David Amess",27555,14459,46537,,69043,67.4,"Con",10000,69.9
@@ -453,7 +453,7 @@
 "E14000981","Suffolk Coastal","Con","Conservative and Unionist Party","Thérèse Coffey",32958,20533,58308,,81910,71.2,"Con",16012,73.5
 "E14000982","Sunderland Central","Lab","Labour Party","Julie Elliott",18336,2964,43476,,,,"Lab",9997,62.1
 "E14000983","Surrey Heath","Con","Conservative and Unionist Party","Michael Gove",34358,18349,58654,,81349,72.1,"Con",24943,71.9
-"E14000984","Sutton and Cheam","Con","Conservative and Unionist Party","Paul Scully",25235,8035,60487,,71760,84.3,"Con",12698,74
+"E14000984","Sutton and Cheam","Con","Conservative and Unionist Party","Paul Scully",25235,8351,50487,,71760,70.4,"Con",12698,74
 "E14000985","Sutton Coldfield","Con","Conservative and Unionist Party","Andrew Mitchell",31604,19272,52325,,75638,69.2,"Con",15339,70.1
 "E14000986","Tamworth","Con","Conservative and Unionist Party","Christopher Pincher",30542,19634,46056,,71580,64.3,"Con",12347,66.3
 "E14000987","Tatton","Con","Conservative and Unionist Party","Esther McVey",28277,17387,48967,,69018,70.9,"Con",14787,72.5
@@ -470,7 +470,7 @@
 "E14000998","Tooting","Lab","Labour Party","Rosena Allin-Khan",30811,14307,58473,,76933,76,"Lab",15458,74.8
 "E14000999","Torbay","Con","Conservative and Unionist Party","Kevin Foster",29863,17749,50426,,75054,67.2,"Con",14283,67.5
 "E14001000","Torridge and West Devon","Con","Conservative and Unionist Party","Geoffrey Cox",35904,24992,59730,,79831,74.8,"Con",20686,74
-"E14001001","Totnes","Con","Conservative and Unionist Party","Anthony Mangnall",27751,12724,58349,,69863,83.5,"Con",13477,73.1
+"E14001001","Totnes","Con","Conservative and Unionist Party","Anthony Mangnall",27751,12724,52182,,69863,74.7,"Con",13477,73.1
 "E14001002","Tottenham","Lab","Labour Party","David Lammy",35621,30175,46856,,75740,61.9,"Lab",34584,67.9
 "E14001003","Truro and Falmouth","Con","Conservative and Unionist Party","Cherilyn Mackrory",27237,4561,59190,,76719,77.2,"Con",3792,75.9
 "E14001004","Tunbridge Wells","Con","Conservative and Unionist Party","Greg Clark",30119,14645,54650,,74816,73,"Con",16465,72.6
@@ -495,7 +495,7 @@
 "E14001023","Wealden","Con","Conservative and Unionist Party","Nus Ghani",37043,25655,60907,,82990,73.4,"Con",23628,74.4
 "E14001024","Weaver Vale","Lab","Labour Party","Mike Amesbury",22772,562,50713,,70551,71.9,"Lab",3928,73.5
 "E14001025","Wellingborough","Con","Conservative and Unionist Party","Peter Bone",32277,18540,51913,,,,"Con",12460,67.3
-"E14001026","Wells","Con","Conservative and Unionist Party","James Heappey",33336,9991,61295,,86522,70.8,"Con",7582,74
+"E14001026","Wells","Con","Conservative and Unionist Party","James Heappey",33336,9991,61565,,86522,71.2,"Con",7582,74
 "E14001027","Welwyn Hatfield","Con","Conservative and Unionist Party","Grant Shapps",27394,10955,52053,,74892,69.5,"Con",7369,71
 "E14001028","Wentworth and Dearne","Lab","Labour Party","John Healey",16742,2165,41557,,74536,55.8,"Lab",14803,59.1
 "E14001029","West Bromwich East","Con","Conservative and Unionist Party","Nicola Faye Richards",16804,1593,35975,,62111,57.9,"Lab",7713,61.5
@@ -523,12 +523,12 @@
 "E14001051","Wolverhampton South West","Con","Conservative and Unionist Party","Stuart Paul Anderson",19864,1661,41136,,,,"Lab",2185,70.8
 "E14001052","Worcester","Con","Conservative and Unionist Party","Robin Walker",25856,6758,50898,,73403,69.3,"Con",2508,69.7
 "E14001053","Workington","Con","Conservative and Unionist Party","Mark Jenkinson",20488,4176,41599,,61370,67.8,"Lab",3925,69.2
-"E14001054","Worsley and Eccles South","Lab","Labour Party","Barbara Keeley",20446,3219,44707,,75219,59.4,"Lab",8379,62.1
-"E14001055","Worthing West","Con","Conservative and Unionist Party","Peter Bottomley",30475,14823,52848,,78587,67.2,"Con",12090,70.2
+"E14001054","Worsley and Eccles South","Lab","Labour Party","Barbara Keeley",20446,3101,44825,,75219,59.6,"Lab",8379,62.1
+"E14001055","Worthing West","Con","Conservative and Unionist Party","Peter Bottomley",30475,14823,54648,,78587,69.5,"Con",12090,70.2
 "E14001056","Wycombe","Con","Conservative and Unionist Party","Steve Baker",24766,4214,54756,,78094,70.1,"Con",6578,69.6
 "E14001057","Wyre and Preston North","Con","Conservative and Unionist Party","Ben Wallace",31589,16781,52924,,,,"Con",12246,73
 "E14001058","Wyre Forest","Con","Conservative and Unionist Party","Mark Garnier",32960,21413,50561,,78079,64.8,"Con",13334,65.9
-"E14001059","Wythenshawe and Sale East","Lab","Labour Party","Mike Kane",23855,10396,44459,,76313,58.3,"Lab",14944,60.1
+"E14001059","Wythenshawe and Sale East","Lab","Labour Party","Mike Kane",23855,10396,44759,,76313,58.7,"Lab",14944,60.1
 "E14001060","Yeovil","Con","Conservative and Unionist Party","Marcus Fysh",34588,16181,59260,,,,"Con",14723,71.8
 "E14001061","York Central","Lab","Labour and Co-operative Party","Rachael Maskell",27312,13545,49505,,74801,66.2,"Lab",18575,68.9
 "E14001062","York Outer","Con","Conservative and Unionist Party","Julian Sturdy",27324,9985,55347,,74586,74.2,"Con",8289,75.9
@@ -588,7 +588,7 @@
 "S14000036","Glenrothes","SNP","Scottish National Party (SNP)","Peter Grant",21234,11757,41546,,65762,63.2,"SNP",3267,60.9
 "S14000037","Gordon","SNP","Scottish National Party (SNP)","Richard Gordon Thomson",23885,819,55916,,79629,70.2,"Con",2607,68.4
 "S14000038","Inverclyde","SNP","Scottish National Party (SNP)","Ronnie Cowan",19295,7512,39903,,60622,65.8,"SNP",384,66.5
-"S14000039","Inverness, Nairn, Badenoch and Strathspey","SNP","Scottish National Party (SNP)","Drew Hendry",26257,10450,54820,,78057,70.2,"SNP",4924,68.8
+"S14000039","Inverness, Nairn, Badenoch and Strathspey","SNP","Scottish National Party (SNP)","Drew Hendry",26247,10440,54810,,78057,70.2,"SNP",4924,68.8
 "S14000040","Kilmarnock and Loudoun","SNP","Scottish National Party (SNP)","Alan Brown",24216,12659,47631,,74517,63.9,"SNP",6269,63.5
 "S14000041","Kirkcaldy and Cowdenbeath","SNP","Scottish National Party (SNP)","Neale Hanvey",16568,1243,47005,,72853,64.5,"Lab",259,63.6
 "S14000042","Lanark and Hamilton East","SNP","Scottish National Party (SNP)","Angela Crawley",22243,5187,53072,,77659,68.3,"SNP",266,65.4
@@ -596,7 +596,7 @@
 "S14000044","Livingston","SNP","Scottish National Party (SNP)","Hannah Bardell",25617,13435,54592,,82285,66.3,"SNP",3878,64.8
 "S14000045","Midlothian","SNP","Scottish National Party (SNP)","Owen Thompson",20033,5705,48221,,70544,68.4,"Lab",885,66.4
 "S14000046","Moray","Con","Conservative and Unionist Party","Douglas Ross",22112,513,48825,,71035,68.7,"Con",4159,67.5
-"S14000047","Motherwell and Wishaw","SNP","Scottish National Party (SNP)","Marion Fellows",20622,6268,43420,,68856,63.1,"SNP",318,61.5
+"S14000047","Motherwell and Wishaw","SNP","Scottish National Party (SNP)","Marion Fellows",20622,6268,44420,,68856,64.5,"SNP",318,61.5
 "S14000048","North Ayrshire and Arran","SNP","Scottish National Party (SNP)","Patricia Gibson",23376,8521,47154,,73534,64.1,"SNP",3633,64.9
 "S14000049","North East Fife","LD","Liberal Democrats","Wendy Chamberlain",19763,1316,45878,,60905,75.3,"SNP",2,71.3
 "S14000050","Ochil and South Perthshire","SNP","Scottish National Party (SNP)","John Nicolson",26882,4498,57813,,78776,73.4,"Con",3359,70.7
